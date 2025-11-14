@@ -1,6 +1,6 @@
 👋 Hi, I'm Ibrahim Ahmed Malik. </br>
 🧑‍🎓 Final year computer science student at FAST-NUCES. </br>
-🧑‍💻 MERN STACK DEVELOPER. </br>
+🧑‍💻 FULL STACK DEVELOPER. </br>
 ✅ Possesses Strong Team work, Problem solving, Managment and Communication Skills. </br>
 🔍 Keen interest in AI/ML and Cybersecurity. </br>
 
